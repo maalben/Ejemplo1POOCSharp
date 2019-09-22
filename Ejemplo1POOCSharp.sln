@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo1POOCSharp", "Ejemplo1POOCSharp\Ejemplo1POOCSharp.csproj", "{69E0AB13-8FDC-46D5-B4E3-D30B3F3D669C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E0AB13-8FDC-46D5-B4E3-D30B3F3D669C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E0AB13-8FDC-46D5-B4E3-D30B3F3D669C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E0AB13-8FDC-46D5-B4E3-D30B3F3D669C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E0AB13-8FDC-46D5-B4E3-D30B3F3D669C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E2D290-4037-4A92-BD2C-0B9073DFF049}
+	EndGlobalSection
+EndGlobal
